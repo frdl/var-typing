@@ -1,0 +1,15 @@
+{
+  "name": "@frdl/var-typing",
+  "version": "0.0.2",
+  "description": "Helper functions to validate/inspect data types.",
+  "main": "index.js",
+  "author": "Till Wehowski",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "@frdl/functions": "latest",
+    "@betafcc/is": "latest"
+  }
+}
